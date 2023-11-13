@@ -1,0 +1,15 @@
+{
+    "name": "workstation/api_basic",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Morais Domingos",
+            "email": "moraisdomingosmd@gmail.com"
+        }
+    ],
+    "require": {}
+}
